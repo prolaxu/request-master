@@ -1,0 +1,14 @@
+{
+  "title": "FaceBook BruteForce Tool",
+  "icon": "icon.png",
+  "size": {
+    "min": {
+      "x": 1100,
+      "y": 400
+    },
+    "max": {
+      "x": 1100,
+      "y": 400
+    }
+  }
+}
